@@ -1,0 +1,26 @@
+<annotation>
+	<folder>label</folder>
+	<filename>92.jpg</filename>
+	<path>C:\Users\Tyler\source\repos\object_detection_demo\data\label\92.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tylenol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>453</xmin>
+			<ymin>102</ymin>
+			<xmax>547</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>
